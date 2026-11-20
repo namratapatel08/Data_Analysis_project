@@ -13,7 +13,7 @@
 
 ---
 
-## 📸 Interactive Dashboard Previews
+##  Interactive Dashboard Previews
 
 ### 1. Executive C-Suite KPI Overview
 ![Executive Dashboard](image/dashboard_executive.png)
@@ -183,4 +183,4 @@ This project demonstrates core competencies sought by hiring managers for **Data
 - **Quantifiable Business Value:** Translates complex datasets into executive KPIs (AOV, gross margin, stockout rates, Pareto distribution) and actionable growth strategies.
 - **Production-Ready Tech Stack:** Python (Streamlit, Plotly, Pandas), SQL (CTEs, Window Functions, Surrogate Keys), and columnar Parquet optimization.
 
-> 💡 **Applying for jobs?** Check out [`RESUME_GUIDE.md`](RESUME_GUIDE.md) for ready-to-copy resume bullet points, interview Q&A scripts, and free 1-click cloud deployment instructions.
+>  **Applying for jobs?** Check out [`RESUME_GUIDE.md`](RESUME_GUIDE.md) for ready-to-copy resume bullet points, interview Q&A scripts, and free 1-click cloud deployment instructions.
