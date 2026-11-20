@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Quick Start: Launch the Interactive Dashboard
+## Quick Start: Launch the Interactive Dashboard
 
 You can run the full interactive BI dashboard locally with a single command:
 
@@ -51,7 +51,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Project Overview & Business Problem
+## Project Overview & Business Problem
 
 In multi-channel retail fashion, brands often suffer from operational blind spots: **customer concentration risk**, **costly stockouts in high-demand categories**, and **inconsistent pricing across marketplaces**.
 
@@ -70,7 +70,7 @@ This project converts 8 fragmented operational CSV datasets into a **normalized 
 
 ---
 
-## 🔧 Data Modeling & Star Schema Architecture
+##  Data Modeling & Star Schema Architecture
 
 The data pipeline extracts 8 messy operational tables and loads them into a clean **Star Schema** with surrogate keys, temporal dimensions, and indexed foreign key relationships.
 
@@ -135,7 +135,7 @@ erDiagram
 
 ---
 
-## 🧪 Advanced SQL Analytical Queries
+##  Advanced SQL Analytical Queries
 
 The SQL warehouse in `query/` contains enterprise-level queries utilizing CTEs, window functions, and statistical aggregations:
 
@@ -146,7 +146,7 @@ The SQL warehouse in `query/` contains enterprise-level queries utilizing CTEs, 
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 ├── app.py                      # Main Streamlit Interactive BI Dashboard
@@ -175,7 +175,7 @@ The SQL warehouse in `query/` contains enterprise-level queries utilizing CTEs, 
 
 ---
 
-## 🎓 Resume & Portfolio Highlights
+##  Resume & Portfolio Highlights
 
 This project demonstrates core competencies sought by hiring managers for **Data Analyst**, **Business Intelligence Engineer**, and **Data Engineer** roles:
 
