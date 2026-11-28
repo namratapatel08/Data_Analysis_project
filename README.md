@@ -1,12 +1,6 @@
 # E-Commerce Sales Analytics & Business Intelligence Platform
 ### ₹347.2M GMV Deep Dive | 91-Day Indian Multi-Channel Fashion Dataset
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive_BI-3F4F75?logo=plotly&logoColor=white)](https://plotly.com)
-[![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20SQLite-00758F?logo=mysql&logoColor=white)](https://mysql.com)
-[![Power BI](https://img.shields.io/badge/Power_BI-PBIX_Model-F2C811?logo=powerbi&logoColor=black)](ecommerce.pbix)
-[![Architecture](https://img.shields.io/badge/Schema-Star_Schema_3NF-success)](#-data-modeling--star-schema-architecture)
 
 **End-to-End Data Modeling, ETL Pipeline & Interactive Business Intelligence Dashboard**  
 *540,716 transaction lines • 72,826 orders • 1,330 SKUs • Multi-channel pricing intelligence across Amazon, Ajio, Myntra, Flipkart, Limeroad, Paytm, and Snapdeal.*
